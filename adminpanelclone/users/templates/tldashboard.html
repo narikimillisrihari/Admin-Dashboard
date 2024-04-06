@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TL Dashboard</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
+    <style>
+        /* Center align the content and add border and padding */
+        .tldashboard {
+            margin: auto;
+            max-width: 800px; /* Adjust the max-width as needed */
+            border: 2px solid #ccc;
+            padding: 20px;
+            font-size: 18px; /* Adjust the font size as needed */
+        }
+    </style>
+</head>
+<body>
+    <div class="tldashboard">
+        <h1>TL Dashboard - {{ employeedata.employee.username }}</h1>
+        <br><br>
+        {% if user.is_authenticated %}
+            <p>Welcome, {{ employeedata.employee.username }}</p>
+            <p>This is the TL space to assign tasks to employees and manage project details.</p>
+            <h3>Mr. {{ employeedata.employee.username }}, you are allocated to this project:</h3>
+            <h4>Project name: 
+                <a class="btn btn-link" href="{% url 'projectdetails' employeedata.project_name.id %}">
+                    {{ employeedata.project_name }}
+                </a>
+            </h4>
+            <br>
+            <a class="btn btn-link" href="{% url 'tltaskcreation' employeedata.project_name.id %}">Add Task</a>
+            <br> <br>
+            <h2>Assigned Task Details</h2>
+            {%for i in tl_add_task_deatils%}
+            <br>   
+            <p> Project-name:  {{i.project}},   TL-id:  {{i.Tldb.id}},   Task-Assigned-employeename: {{i.employee}},  Task-Des:  {{i.task_name}}
+                <a class="btn btn-link btn-sm" href="{% url 'tltaskdata' i.id%}">Delete</a>
+            </p>
+                 
+            {%endfor%}
+            <br><br><br><br>
+            <a class="btn btn-link" href="{% url 'logout' %}">Logout</a>
+        {% endif %}
+    </div>
+</body>
+</html>

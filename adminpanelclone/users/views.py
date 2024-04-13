@@ -5,13 +5,7 @@ from users.models import Project,Employee,Tldb,TL_Task
 from django.shortcuts import get_object_or_404
 from django.contrib.auth.decorators import login_required
 
-# manager
-# manager
-# TL
-# Tlaccount
-# employee
-# Employeeaccount
-# Create your views here.
+
 def login(request):
     if request.method=="POST":
         username=request.POST['username']

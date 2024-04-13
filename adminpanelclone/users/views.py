@@ -3,6 +3,8 @@ from django.contrib.auth import authenticate, logout, login as auth_login
 from users.form import CreateProjectform,Tldbform,EmployeeForm,TlTaskCreationForm
 from users.models import Project,Employee,Tldb,TL_Task
 from django.shortcuts import get_object_or_404
+from django.contrib.auth.decorators import login_required
+
 # manager
 # manager
 # TL
@@ -25,7 +27,8 @@ def login(request):
 
     else:
         return render(request,"loginpage.html")
-    
+
+@login_required(login_url="main/login/")   
 def dashboard(request):
     Tldata=Tldb.objects.all()
     tldata=[str(employee.employee) for employee in Tldata]
@@ -55,7 +58,8 @@ def dashboard(request):
             return render(request,'sample.html',{'username':username})
     else:
         return render(login)
-    
+
+@login_required(login_url="main/login/")   
 def employeedashboard(request,user_id):
     userid=get_object_or_404(Employee,pk=user_id)
     username=userid.username
@@ -63,7 +67,8 @@ def employeedashboard(request,user_id):
     # countof_task=TL_Task.objects.count(employee_id=user_id)
     # print(employee_project_details.count())
     return render(request,'employeedashboard.html',{'username':username,'employee_project_details':employee_project_details})
-    
+
+@login_required(login_url="main/login/")    
 def tldashboard(request,empid):
     employeedata=Tldb.objects.get(employee_id=empid)
     # tl_add_task_deatils=TL_Task.objects.get(pk=empid)
@@ -75,6 +80,7 @@ def tldashboard(request,empid):
 
     return render(request,'tldashboard.html',{'employeedata':employeedata,'tl_add_task_deatils':tl_add_task_deatils})
 
+@login_required(login_url="main/login/")   
 def tltaskcreation(request,projectid):
     print(projectid)
     tl_project_id = get_object_or_404(Project, pk=projectid)
@@ -105,6 +111,7 @@ def logut(request):
     logout(request)
     return redirect(login)
 
+@login_required(login_url="main/login/")   
 def addproject(request):
     if request.method=="POST":
         fm=CreateProjectform(request.POST)
@@ -115,12 +122,14 @@ def addproject(request):
         fm=CreateProjectform
     return render(request,'addproject.html',{'form':fm})
 
+@login_required(login_url="main/login/")   
 def projectdetails(request,id):
     project=get_object_or_404(Project,pk=id)
     print(project)
 
     return render(request,'project.html',{'project':project})
 
+@login_required(login_url="main/login/")   
 def AddTL(request):
     if request.method=="POST":
         fm=Tldbform(request.POST)
@@ -141,7 +150,7 @@ def Employeecreation(request):
     else:
         fm=EmployeeForm
     return render(request,'EmployeeForm.html',{'form':fm})
-
+@login_required(login_url="main/login/")   
 def alldata(request):
     employeedata=Employee.objects.all()
     for i in employeedata:
@@ -167,19 +176,22 @@ def alldata(request):
         if projectid==project.id:
             projectname=project.project_title
     print(projectname)
-
+@login_required(login_url="main/login/")   
 def projectdelete(request,id):
     item=get_object_or_404(Project,pk=id)
     item.delete()
     return redirect(dashboard)
+@login_required(login_url="main/login/")   
 def employeedata(request,id):
     item=get_object_or_404(Employee,pk=id)
     item.delete()
     return redirect(dashboard)
+@login_required(login_url="main/login/")   
 def tldelete(request,id):
     item=get_object_or_404(Tldb,pk=id)
     item.delete()
     return redirect(dashboard)
+@login_required(login_url="main/login/")
 def tltaskdata(request,id):
     item=get_object_or_404(TL_Task,pk=id)
     item.delete()

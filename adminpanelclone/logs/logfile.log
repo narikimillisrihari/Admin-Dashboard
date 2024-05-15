@@ -1,0 +1,691 @@
+2024-04-18 11:01:34,765 - project_logger - INFO - Dashboard view accessed
+2024-04-18 11:01:34,765 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-04-18 11:01:36,828 - project_logger - INFO - manager Logout Successfully
+2024-04-18 11:01:40,832 - project_logger - INFO - Dashboard view accessed
+2024-04-18 11:01:40,833 - project_logger - INFO - manoj--Employee Dashboard is opened
+2024-04-18 11:01:41,968 - project_logger - INFO - manoj Logout Successfully
+2024-04-18 11:01:44,499 - project_logger - INFO - Dashboard view accessed
+2024-04-18 11:01:44,500 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-04-18 11:01:46,723 - project_logger - INFO - manager Logout Successfully
+2024-04-18 11:01:49,561 - project_logger - INFO - Dashboard view accessed
+2024-04-18 11:01:49,561 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-04-18 11:01:51,084 - project_logger - INFO - pradeep Logout Successfully
+2024-04-18 18:01:33,258 - project_logger - INFO - manager Login Successfully
+2024-04-18 18:01:33,286 - project_logger - INFO - Dashboard view accessed
+2024-04-18 18:01:33,287 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-04-18 18:01:42,797 - project_logger - INFO - manager Logout Successfully
+2024-04-19 17:31:19,919 - project_logger - INFO - manager Login Successfully
+2024-04-19 17:31:19,955 - project_logger - INFO - Dashboard view accessed
+2024-04-19 17:31:19,955 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-04-19 17:31:21,481 - project_logger - INFO - manager ready to add project
+2024-04-19 17:32:00,913 - project_logger - INFO - Manger added project succesfully
+2024-04-19 17:32:03,483 - project_logger - INFO - Dashboard view accessed
+2024-04-19 17:32:03,483 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-04-19 17:32:07,755 - project_logger - INFO - Manger Try to adding Tl
+2024-04-19 17:32:16,750 - project_logger - INFO - Manger added Tl to specific project
+2024-04-19 17:32:17,702 - project_logger - INFO - Dashboard view accessed
+2024-04-19 17:32:17,702 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-04-19 17:32:25,752 - project_logger - INFO - Manger Deleted project----salesforce with devapps
+2024-04-19 17:32:25,783 - project_logger - INFO - Dashboard view accessed
+2024-04-19 17:32:25,783 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-04-19 17:32:30,584 - project_logger - INFO - manager Logout Successfully
+2024-04-19 17:32:34,985 - project_logger - INFO - anil Login Successfully
+2024-04-19 17:32:35,010 - project_logger - INFO - Dashboard view accessed
+2024-04-19 17:32:35,011 - project_logger - INFO - anil--Tl Dashboard is opened
+2024-04-19 17:32:37,460 - project_logger - INFO - TL task is trying to assign a task to  employee
+2024-04-19 17:33:15,266 - project_logger - INFO - TL task is assigned to employee
+2024-04-19 17:33:15,286 - project_logger - INFO - Dashboard view accessed
+2024-04-19 17:33:15,287 - project_logger - INFO - anil--Tl Dashboard is opened
+2024-04-19 17:33:17,700 - project_logger - INFO - anil Logout Successfully
+2024-04-19 17:33:21,253 - project_logger - INFO - pradeep Login Successfully
+2024-04-19 17:33:21,275 - project_logger - INFO - Dashboard view accessed
+2024-04-19 17:33:21,276 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-04-19 17:33:31,699 - project_logger - INFO - pradeep Logout Successfully
+2024-04-23 17:33:58,051 - project_logger - INFO - pradeep Login Successfully
+2024-04-23 17:33:58,082 - project_logger - INFO - Dashboard view accessed
+2024-04-23 17:33:58,083 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-04-23 17:33:59,707 - project_logger - INFO - TL task is trying to assign a task to  employee
+2024-04-23 17:35:17,900 - project_logger - INFO - TL task is assigned to employee
+2024-04-23 17:35:17,915 - project_logger - INFO - Dashboard view accessed
+2024-04-23 17:35:17,916 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-04-23 17:35:21,735 - project_logger - INFO - pradeep Logout Successfully
+2024-04-23 17:56:21,608 - project_logger - INFO - manager Login Successfully
+2024-04-23 17:56:21,649 - project_logger - INFO - Dashboard view accessed
+2024-04-23 17:56:21,649 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-04-23 18:05:34,808 - project_logger - INFO - manager Logout Successfully
+2024-04-23 18:12:29,844 - project_logger - INFO - manager Login Successfully
+2024-04-23 18:12:29,868 - project_logger - INFO - Dashboard view accessed
+2024-04-23 18:12:29,870 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-04-23 18:12:32,664 - project_logger - INFO - manager Logout Successfully
+2024-04-23 18:12:36,149 - project_logger - INFO - anil Login Successfully
+2024-04-23 18:12:36,173 - project_logger - INFO - Dashboard view accessed
+2024-04-23 18:13:24,812 - project_logger - INFO - manager Login Successfully
+2024-04-23 18:13:24,844 - project_logger - INFO - Dashboard view accessed
+2024-04-23 18:13:24,845 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-04-23 18:13:26,972 - project_logger - INFO - manager Logout Successfully
+2024-04-23 18:13:29,993 - project_logger - INFO - pradeep Login Successfully
+2024-04-23 18:13:30,015 - project_logger - INFO - Dashboard view accessed
+2024-04-23 18:15:43,244 - project_logger - INFO - Dashboard view accessed
+2024-04-23 18:17:14,769 - project_logger - INFO - pradeep Login Successfully
+2024-04-23 18:17:14,800 - project_logger - INFO - Dashboard view accessed
+2024-04-23 18:18:17,591 - project_logger - INFO - srihari Login Successfully
+2024-04-23 18:18:17,616 - project_logger - INFO - Dashboard view accessed
+2024-04-23 18:18:17,618 - project_logger - INFO - srihari--Employee Dashboard is opened
+2024-04-23 18:18:20,037 - project_logger - INFO - srihari Logout Successfully
+2024-04-23 18:20:13,495 - project_logger - INFO - pradeep Login Successfully
+2024-04-23 18:20:13,532 - project_logger - INFO - Dashboard view accessed
+2024-04-23 18:21:27,418 - project_logger - INFO - pradeep Login Successfully
+2024-04-23 18:21:27,453 - project_logger - INFO - Dashboard view accessed
+2024-04-23 18:23:59,070 - project_logger - INFO - pradeep Login Successfully
+2024-04-23 18:23:59,107 - project_logger - INFO - Dashboard view accessed
+2024-04-23 18:23:59,109 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-04-23 18:24:06,487 - project_logger - INFO - pradeep Logout Successfully
+2024-04-23 18:24:15,413 - project_logger - INFO - pradeep Login Successfully
+2024-04-23 18:24:15,437 - project_logger - INFO - Dashboard view accessed
+2024-04-23 18:24:15,438 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-04-23 18:24:59,080 - project_logger - INFO - pradeep Logout Successfully
+2024-04-23 18:25:02,179 - project_logger - INFO - manager Login Successfully
+2024-04-23 18:25:02,203 - project_logger - INFO - Dashboard view accessed
+2024-04-23 18:25:02,204 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-04-23 18:25:04,116 - project_logger - INFO - manager Logout Successfully
+2024-04-23 18:25:07,762 - project_logger - INFO - rakesh Login Successfully
+2024-04-23 18:25:07,785 - project_logger - INFO - Dashboard view accessed
+2024-04-23 18:25:07,786 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-04-23 18:25:12,740 - project_logger - INFO - TL task is trying to assign a task to  employee
+2024-04-23 18:27:48,308 - project_logger - INFO - TL task is trying to assign a task to  employee
+2024-04-23 18:27:49,809 - project_logger - INFO - TL task is trying to assign a task to  employee
+2024-04-23 18:27:53,882 - project_logger - INFO - Dashboard view accessed
+2024-04-23 18:27:53,883 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-04-23 18:27:55,082 - project_logger - INFO - TL task is trying to assign a task to  employee
+2024-04-23 18:28:56,176 - project_logger - INFO - TL task is trying to assign a task to  employee
+2024-04-23 18:28:57,995 - project_logger - INFO - TL task is trying to assign a task to  employee
+2024-04-23 18:29:41,289 - project_logger - INFO - TL task is trying to assign a task to  employee
+2024-04-23 18:35:55,434 - project_logger - INFO - TL task is trying to assign a task to  employee
+2024-04-23 18:36:10,237 - project_logger - INFO - TL task is trying to assign a task to  employee
+2024-04-23 18:38:09,929 - project_logger - INFO - TL task is trying to assign a task to  employee
+2024-04-23 18:40:33,599 - project_logger - INFO - TL task is trying to assign a task to  employee
+2024-04-23 18:41:56,117 - project_logger - INFO - TL task is assigned to employee
+2024-04-23 18:41:56,134 - project_logger - INFO - Dashboard view accessed
+2024-04-23 18:41:56,135 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-04-23 18:43:10,161 - project_logger - INFO - rakesh Logout Successfully
+2024-04-23 18:43:12,147 - project_logger - INFO - rakesh Login Successfully
+2024-04-23 18:43:12,170 - project_logger - INFO - Dashboard view accessed
+2024-04-23 18:43:12,171 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-04-23 18:43:14,050 - project_logger - INFO - TL task form initialized with initial data
+2024-04-23 18:45:48,936 - project_logger - INFO - TL task form initialized with initial data
+2024-04-24 09:32:29,298 - project_logger - INFO - manager Login Successfully
+2024-04-24 09:32:29,342 - project_logger - INFO - Dashboard view accessed
+2024-04-24 09:32:29,343 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-04-24 09:32:46,266 - project_logger - INFO - manager Logout Successfully
+2024-04-24 09:32:49,708 - project_logger - INFO - pradeep Login Successfully
+2024-04-24 09:32:49,732 - project_logger - INFO - Dashboard view accessed
+2024-04-24 09:32:49,733 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-04-24 09:32:51,835 - project_logger - INFO - TL task form initialized with initial data
+2024-04-24 09:33:07,855 - project_logger - INFO - manager Login Successfully
+2024-04-24 09:33:07,879 - project_logger - INFO - Dashboard view accessed
+2024-04-24 09:33:07,879 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-04-24 09:36:02,837 - project_logger - INFO - Dashboard view accessed
+2024-04-24 09:36:02,837 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-04-24 09:36:04,931 - project_logger - INFO - manager Logout Successfully
+2024-04-24 09:36:08,233 - project_logger - INFO - pradeep Login Successfully
+2024-04-24 09:36:08,258 - project_logger - INFO - Dashboard view accessed
+2024-04-24 09:36:08,259 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-04-24 09:36:09,329 - project_logger - INFO - TL task form initialized with initial data
+2024-04-24 09:41:05,675 - project_logger - INFO - Dashboard view accessed
+2024-04-24 09:41:05,677 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-04-24 09:41:07,831 - project_logger - INFO - pradeep Logout Successfully
+2024-04-24 09:41:11,075 - project_logger - INFO - rakesh Login Successfully
+2024-04-24 09:41:11,099 - project_logger - INFO - Dashboard view accessed
+2024-04-24 09:41:11,100 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-04-24 09:41:14,128 - project_logger - INFO - TL task form initialized with initial data
+2024-04-24 09:42:05,896 - project_logger - INFO - Dashboard view accessed
+2024-04-24 09:42:05,897 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-04-24 09:42:08,125 - project_logger - INFO - rakesh Logout Successfully
+2024-04-24 09:42:12,160 - project_logger - INFO - pradeep Login Successfully
+2024-04-24 09:42:12,195 - project_logger - INFO - Dashboard view accessed
+2024-04-24 09:42:12,197 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-04-24 09:42:46,956 - project_logger - INFO - pradeep Logout Successfully
+2024-04-24 17:49:25,307 - project_logger - INFO - pradeep Invalid username and password
+2024-04-24 17:49:31,837 - project_logger - INFO - pradeep Login Successfully
+2024-04-24 17:49:31,863 - project_logger - INFO - Dashboard view accessed
+2024-04-24 17:49:31,864 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-04-24 17:49:34,394 - project_logger - INFO - TL task form initialized with initial data
+2024-04-24 17:49:37,571 - project_logger - INFO - Dashboard view accessed
+2024-04-24 17:49:37,572 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-04-24 17:50:02,364 - project_logger - INFO - TL Deleting the task data
+2024-04-24 17:50:02,391 - project_logger - INFO - Dashboard view accessed
+2024-04-24 17:50:02,392 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-04-24 17:50:17,043 - project_logger - INFO - TL task form initialized with initial data
+2024-04-24 17:56:00,070 - project_logger - INFO - pradeep Login Successfully
+2024-04-24 17:56:00,101 - project_logger - INFO - Dashboard view accessed
+2024-04-24 17:56:00,102 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-04-24 17:56:01,310 - project_logger - INFO - TL task form initialized with initial data
+2024-04-24 17:58:35,099 - project_logger - INFO - Dashboard view accessed
+2024-04-24 17:58:35,100 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-04-24 18:06:37,264 - project_logger - INFO - TL task form initialized with initial data
+2024-04-24 18:47:35,504 - project_logger - INFO - pradeep Login Successfully
+2024-04-24 18:47:35,535 - project_logger - INFO - Dashboard view accessed
+2024-04-24 18:47:35,536 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-04-24 18:47:46,916 - project_logger - INFO - TL task form initialized with initial data
+2024-05-01 21:58:51,009 - project_logger - INFO - pradeep Login Successfully
+2024-05-01 21:58:51,043 - project_logger - INFO - Dashboard view accessed
+2024-05-01 21:58:51,044 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-05-01 21:58:53,155 - project_logger - INFO - pradeep Logout Successfully
+2024-05-01 21:59:10,730 - project_logger - INFO - manager Login Successfully
+2024-05-01 21:59:10,754 - project_logger - INFO - Dashboard view accessed
+2024-05-01 21:59:10,755 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-01 21:59:14,502 - project_logger - INFO - manager ready to add project
+2024-05-01 21:59:28,714 - project_logger - INFO - Manger added project succesfully
+2024-05-01 21:59:30,631 - project_logger - INFO - Dashboard view accessed
+2024-05-01 21:59:30,631 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-01 21:59:41,848 - project_logger - INFO - Manger Try to adding Tl
+2024-05-01 21:59:58,881 - project_logger - INFO - Manger added Tl to specific project
+2024-05-01 22:00:01,111 - project_logger - INFO - Dashboard view accessed
+2024-05-01 22:00:01,112 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-01 22:00:05,080 - project_logger - INFO - Dashboard view accessed
+2024-05-01 22:00:05,081 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-01 22:00:08,963 - project_logger - INFO - Manger Trying to add Employe to specific project
+2024-05-01 22:00:13,780 - project_logger - INFO - Dashboard view accessed
+2024-05-01 22:00:13,781 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-01 22:00:16,612 - project_logger - INFO - manager Logout Successfully
+2024-05-01 22:00:23,096 - project_logger - INFO - mouli Login Successfully
+2024-05-01 22:00:23,127 - project_logger - INFO - Dashboard view accessed
+2024-05-01 22:00:23,128 - project_logger - INFO - mouli--Tl Dashboard is opened
+2024-05-01 22:00:37,065 - project_logger - INFO - TL task form initialized with initial data
+2024-05-01 22:00:44,484 - project_logger - INFO - Dashboard view accessed
+2024-05-01 22:00:44,485 - project_logger - INFO - mouli--Tl Dashboard is opened
+2024-05-01 22:00:49,160 - project_logger - INFO - mouli Logout Successfully
+2024-05-01 22:00:56,159 - project_logger - INFO - manager Login Successfully
+2024-05-01 22:00:56,188 - project_logger - INFO - Dashboard view accessed
+2024-05-01 22:00:56,189 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-01 22:00:59,214 - project_logger - INFO - manager Logout Successfully
+2024-05-01 22:01:05,672 - project_logger - INFO - srihari Login Successfully
+2024-05-01 22:01:05,706 - project_logger - INFO - Dashboard view accessed
+2024-05-01 22:01:05,709 - project_logger - INFO - srihari--Employee Dashboard is opened
+2024-05-01 22:01:31,128 - project_logger - INFO - srihari Logout Successfully
+2024-05-01 22:01:41,719 - project_logger - INFO - mouli Login Successfully
+2024-05-01 22:01:41,745 - project_logger - INFO - Dashboard view accessed
+2024-05-01 22:01:41,746 - project_logger - INFO - mouli--Tl Dashboard is opened
+2024-05-01 22:01:46,895 - project_logger - INFO - TL task form initialized with initial data
+2024-05-01 22:02:01,070 - project_logger - INFO - Dashboard view accessed
+2024-05-01 22:02:01,072 - project_logger - INFO - mouli--Tl Dashboard is opened
+2024-05-01 22:02:03,029 - project_logger - INFO - mouli Logout Successfully
+2024-05-01 22:02:14,609 - project_logger - INFO - manager Login Successfully
+2024-05-01 22:02:14,643 - project_logger - INFO - Dashboard view accessed
+2024-05-01 22:02:14,643 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-01 22:02:17,426 - project_logger - INFO - Dashboard view accessed
+2024-05-01 22:02:17,426 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-01 22:02:20,789 - project_logger - INFO - manager Logout Successfully
+2024-05-01 22:02:26,900 - project_logger - INFO - pradeep Login Successfully
+2024-05-01 22:02:26,923 - project_logger - INFO - Dashboard view accessed
+2024-05-01 22:02:26,924 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-05-01 22:02:29,710 - project_logger - INFO - pradeep Logout Successfully
+2024-05-01 22:02:36,046 - project_logger - INFO - manager Login Successfully
+2024-05-01 22:02:36,071 - project_logger - INFO - Dashboard view accessed
+2024-05-01 22:02:36,072 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-01 22:02:38,585 - project_logger - INFO - manager Logout Successfully
+2024-05-01 22:02:44,861 - project_logger - INFO - anil Login Successfully
+2024-05-01 22:02:44,884 - project_logger - INFO - Dashboard view accessed
+2024-05-01 22:02:44,885 - project_logger - INFO - anil--Tl Dashboard is opened
+2024-05-01 22:03:07,060 - project_logger - INFO - TL task form initialized with initial data
+2024-05-01 22:03:53,408 - project_logger - INFO - Dashboard view accessed
+2024-05-01 22:03:53,410 - project_logger - INFO - anil--Tl Dashboard is opened
+2024-05-01 22:04:11,634 - project_logger - INFO - TL task form initialized with initial data
+2024-05-01 22:08:28,611 - project_logger - INFO - Dashboard view accessed
+2024-05-01 22:08:28,613 - project_logger - INFO - anil--Tl Dashboard is opened
+2024-05-01 22:08:33,920 - project_logger - INFO - TL task form initialized with initial data
+2024-05-01 22:08:53,067 - project_logger - INFO - TL task form initialized with initial data
+2024-05-01 22:19:29,526 - project_logger - INFO - Dashboard view accessed
+2024-05-01 22:19:29,528 - project_logger - INFO - anil--Tl Dashboard is opened
+2024-05-01 22:20:17,697 - project_logger - INFO - TL task form initialized with initial data
+2024-05-01 22:20:41,041 - project_logger - INFO - Dashboard view accessed
+2024-05-01 22:20:41,043 - project_logger - INFO - anil--Tl Dashboard is opened
+2024-05-01 22:20:42,356 - project_logger - INFO - anil Logout Successfully
+2024-05-01 22:20:47,173 - project_logger - INFO - manager Login Successfully
+2024-05-01 22:20:47,199 - project_logger - INFO - Dashboard view accessed
+2024-05-01 22:20:47,200 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-01 22:20:50,663 - project_logger - INFO - manager Logout Successfully
+2024-05-01 22:20:58,580 - project_logger - INFO - pradeep Login Successfully
+2024-05-01 22:20:58,639 - project_logger - INFO - Dashboard view accessed
+2024-05-01 22:20:58,641 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-05-01 22:21:00,471 - project_logger - INFO - TL task form initialized with initial data
+2024-05-01 22:23:29,024 - project_logger - INFO - manager Login Successfully
+2024-05-01 22:23:29,061 - project_logger - INFO - Dashboard view accessed
+2024-05-01 22:23:29,062 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-01 22:25:27,973 - project_logger - INFO - Manger Try to adding Tl
+2024-05-01 22:25:37,304 - project_logger - INFO - Dashboard view accessed
+2024-05-01 22:25:37,305 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-01 22:25:39,425 - project_logger - INFO - Manger Trying to add Employe to specific project
+2024-05-01 22:26:01,666 - project_logger - INFO - Manger added Employe to specific project
+2024-05-01 22:26:04,779 - project_logger - INFO - manager Login Successfully
+2024-05-01 22:26:04,805 - project_logger - INFO - Dashboard view accessed
+2024-05-01 22:26:04,806 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-01 22:26:13,536 - project_logger - INFO - Manger Try to adding Tl
+2024-05-01 22:26:26,402 - project_logger - INFO - Manger added Tl to specific project
+2024-05-01 22:26:28,175 - project_logger - INFO - Dashboard view accessed
+2024-05-01 22:26:28,176 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-01 22:27:20,302 - project_logger - INFO - manager Logout Successfully
+2024-05-01 22:27:25,691 - project_logger - INFO - pradeep Login Successfully
+2024-05-01 22:27:25,732 - project_logger - INFO - Dashboard view accessed
+2024-05-01 22:27:25,733 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-05-01 22:27:33,780 - project_logger - INFO - TL task form initialized with initial data
+2024-05-01 22:27:59,053 - project_logger - INFO - Dashboard view accessed
+2024-05-01 22:27:59,055 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-05-01 22:28:57,479 - project_logger - INFO - TL task form initialized with initial data
+2024-05-01 22:29:00,057 - project_logger - INFO - Dashboard view accessed
+2024-05-01 22:29:00,058 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-05-08 16:31:22,797 - project_logger - INFO - pradeep Login Successfully
+2024-05-08 16:31:22,831 - project_logger - INFO - Dashboard view accessed
+2024-05-08 16:31:22,832 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-05-08 16:39:50,722 - project_logger - INFO - pradeep Logout Successfully
+2024-05-08 16:39:54,583 - project_logger - INFO - srihari Login Successfully
+2024-05-08 16:39:54,607 - project_logger - INFO - Dashboard view accessed
+2024-05-08 16:39:54,608 - project_logger - INFO - srihari--Employee Dashboard is opened
+2024-05-08 16:39:56,549 - project_logger - INFO - srihari Logout Successfully
+2024-05-08 16:40:00,297 - project_logger - INFO - manager Login Successfully
+2024-05-08 16:40:00,323 - project_logger - INFO - Dashboard view accessed
+2024-05-08 16:40:00,324 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-08 16:40:03,775 - project_logger - INFO - manager Logout Successfully
+2024-05-08 16:40:07,518 - project_logger - INFO - rakesh Login Successfully
+2024-05-08 16:40:07,540 - project_logger - INFO - Dashboard view accessed
+2024-05-08 16:40:07,541 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-08 16:40:09,282 - project_logger - INFO - TL task form initialized with initial data
+2024-05-08 16:43:04,847 - project_logger - INFO - TL task form initialized with initial data
+2024-05-08 16:43:22,281 - project_logger - INFO - TL task form initialized with initial data
+2024-05-08 16:43:28,023 - project_logger - INFO - Dashboard view accessed
+2024-05-08 16:43:28,024 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-08 16:43:30,536 - project_logger - INFO - TL task form initialized with initial data
+2024-05-08 16:44:33,532 - project_logger - INFO - Dashboard view accessed
+2024-05-08 16:44:33,533 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-08 16:44:35,544 - project_logger - INFO - TL task form initialized with initial data
+2024-05-08 16:45:54,788 - project_logger - INFO - Dashboard view accessed
+2024-05-08 16:45:54,789 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-08 16:45:57,129 - project_logger - INFO - This is specific--google testing  details
+2024-05-08 16:45:59,465 - project_logger - INFO - Dashboard view accessed
+2024-05-08 16:45:59,466 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-08 16:46:00,630 - project_logger - INFO - TL task form initialized with initial data
+2024-05-08 16:46:24,340 - project_logger - INFO - TL task is assigned to employee
+2024-05-08 16:46:24,357 - project_logger - INFO - Dashboard view accessed
+2024-05-08 16:46:24,358 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-08 16:46:58,563 - project_logger - INFO - rakesh Logout Successfully
+2024-05-08 16:47:04,736 - project_logger - INFO - pradeep Login Successfully
+2024-05-08 16:47:04,763 - project_logger - INFO - Dashboard view accessed
+2024-05-08 16:47:04,765 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-05-08 16:48:15,724 - project_logger - INFO - TL task form initialized with initial data
+2024-05-08 16:48:36,899 - project_logger - INFO - TL task is assigned to employee
+2024-05-08 16:48:36,920 - project_logger - INFO - Dashboard view accessed
+2024-05-08 16:48:36,921 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-05-08 16:48:39,385 - project_logger - INFO - pradeep Logout Successfully
+2024-05-08 16:48:43,030 - project_logger - INFO - rakesh Login Successfully
+2024-05-08 16:48:43,063 - project_logger - INFO - Dashboard view accessed
+2024-05-08 16:48:43,064 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-08 16:48:44,434 - project_logger - INFO - rakesh Logout Successfully
+2024-05-08 16:48:47,558 - project_logger - INFO - mouli Login Successfully
+2024-05-08 16:48:47,586 - project_logger - INFO - Dashboard view accessed
+2024-05-08 16:48:47,587 - project_logger - INFO - mouli--Tl Dashboard is opened
+2024-05-08 16:48:48,761 - project_logger - INFO - mouli Logout Successfully
+2024-05-08 16:48:51,727 - project_logger - INFO - anil Login Successfully
+2024-05-08 16:48:51,751 - project_logger - INFO - Dashboard view accessed
+2024-05-08 16:48:51,751 - project_logger - INFO - anil--Tl Dashboard is opened
+2024-05-08 16:48:53,409 - project_logger - INFO - anil Logout Successfully
+2024-05-08 16:48:57,432 - project_logger - INFO - rakesh Login Successfully
+2024-05-08 16:48:57,453 - project_logger - INFO - Dashboard view accessed
+2024-05-08 16:48:57,454 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-08 16:48:58,736 - project_logger - INFO - rakesh Logout Successfully
+2024-05-08 16:49:01,666 - project_logger - INFO - pradeep Login Successfully
+2024-05-08 16:49:01,693 - project_logger - INFO - Dashboard view accessed
+2024-05-08 16:49:01,693 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-05-08 16:49:28,239 - project_logger - INFO - TL Deleting the task data
+2024-05-08 16:49:28,268 - project_logger - INFO - Dashboard view accessed
+2024-05-08 16:49:28,269 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-05-08 16:50:39,176 - project_logger - INFO - pradeep Logout Successfully
+2024-05-08 16:50:42,065 - project_logger - INFO - rakesh Login Successfully
+2024-05-08 16:50:42,089 - project_logger - INFO - Dashboard view accessed
+2024-05-08 16:50:42,090 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-08 16:50:43,120 - project_logger - INFO - TL task form initialized with initial data
+2024-05-08 16:56:07,972 - project_logger - INFO - Dashboard view accessed
+2024-05-08 16:56:07,974 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-08 16:56:18,446 - project_logger - INFO - TL task form initialized with initial data
+2024-05-08 17:04:04,682 - project_logger - INFO - Dashboard view accessed
+2024-05-08 17:04:04,683 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-08 17:12:34,347 - project_logger - INFO - Dashboard view accessed
+2024-05-08 17:12:34,350 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-08 17:14:28,933 - project_logger - INFO - rakesh Login Successfully
+2024-05-08 17:14:28,983 - project_logger - INFO - Dashboard view accessed
+2024-05-08 17:14:28,985 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-08 17:20:12,441 - project_logger - INFO - rakesh Login Successfully
+2024-05-08 17:20:12,475 - project_logger - INFO - Dashboard view accessed
+2024-05-08 17:20:12,476 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-08 17:20:13,643 - project_logger - INFO - TL task form initialized with initial data
+2024-05-08 17:26:40,700 - project_logger - INFO - Dashboard view accessed
+2024-05-08 17:26:40,702 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-08 17:29:29,035 - project_logger - INFO - rakesh Login Successfully
+2024-05-08 17:29:29,064 - project_logger - INFO - Dashboard view accessed
+2024-05-08 17:29:29,064 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-08 17:35:33,522 - project_logger - INFO - rakesh Login Successfully
+2024-05-08 17:35:33,551 - project_logger - INFO - Dashboard view accessed
+2024-05-08 17:35:33,552 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-08 17:37:18,967 - project_logger - INFO - rakesh Login Successfully
+2024-05-08 17:37:18,992 - project_logger - INFO - Dashboard view accessed
+2024-05-08 17:37:18,993 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-08 17:42:21,404 - project_logger - INFO - TL task form initialized with initial data
+2024-05-08 17:42:39,239 - project_logger - INFO - TL task is assigned to employee
+2024-05-08 17:42:39,255 - project_logger - INFO - Dashboard view accessed
+2024-05-08 17:42:39,255 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-08 17:45:29,124 - project_logger - INFO - TL task form initialized with initial data
+2024-05-08 17:46:20,494 - project_logger - INFO - rakesh Login Successfully
+2024-05-08 17:46:20,528 - project_logger - INFO - Dashboard view accessed
+2024-05-08 17:46:20,528 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-08 17:46:21,662 - project_logger - INFO - TL task form initialized with initial data
+2024-05-08 17:46:43,589 - project_logger - INFO - Dashboard view accessed
+2024-05-08 17:46:43,590 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-08 17:46:45,564 - project_logger - INFO - TL task form initialized with initial data
+2024-05-08 17:46:50,606 - project_logger - INFO - Dashboard view accessed
+2024-05-08 17:46:50,607 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-08 17:46:53,979 - project_logger - INFO - TL task form initialized with initial data
+2024-05-08 17:48:50,932 - project_logger - INFO - Dashboard view accessed
+2024-05-08 17:48:50,934 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-08 17:50:13,763 - project_logger - INFO - rakesh Login Successfully
+2024-05-08 17:50:13,798 - project_logger - INFO - Dashboard view accessed
+2024-05-08 17:50:13,799 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-08 17:50:16,202 - project_logger - INFO - rakesh Logout Successfully
+2024-05-08 17:50:19,013 - project_logger - INFO - pradeep Login Successfully
+2024-05-08 17:50:19,037 - project_logger - INFO - Dashboard view accessed
+2024-05-08 17:50:19,038 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-05-08 17:50:21,228 - project_logger - INFO - pradeep Logout Successfully
+2024-05-08 17:50:25,222 - project_logger - INFO - anil Login Successfully
+2024-05-08 17:50:25,246 - project_logger - INFO - Dashboard view accessed
+2024-05-08 17:50:25,247 - project_logger - INFO - anil--Tl Dashboard is opened
+2024-05-08 17:50:32,925 - project_logger - INFO - anil Logout Successfully
+2024-05-08 17:50:37,053 - project_logger - INFO - manoj Login Successfully
+2024-05-08 17:50:37,079 - project_logger - INFO - Dashboard view accessed
+2024-05-08 17:50:37,081 - project_logger - INFO - manoj--Employee Dashboard is opened
+2024-05-08 17:50:38,635 - project_logger - INFO - manoj Logout Successfully
+2024-05-08 17:50:42,625 - project_logger - INFO - mouli Login Successfully
+2024-05-08 17:50:42,650 - project_logger - INFO - Dashboard view accessed
+2024-05-08 17:50:42,651 - project_logger - INFO - mouli--Tl Dashboard is opened
+2024-05-08 17:50:44,448 - project_logger - INFO - mouli Logout Successfully
+2024-05-08 17:50:48,309 - project_logger - INFO - rakesh Login Successfully
+2024-05-08 17:50:48,334 - project_logger - INFO - Dashboard view accessed
+2024-05-08 17:50:48,335 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-08 17:50:50,472 - project_logger - INFO - TL task form initialized with initial data
+2024-05-08 18:33:52,920 - project_logger - INFO - Dashboard view accessed
+2024-05-08 18:33:52,921 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-08 18:33:54,325 - project_logger - INFO - rakesh Logout Successfully
+2024-05-08 18:33:57,988 - project_logger - INFO - mouli Login Successfully
+2024-05-08 18:33:58,010 - project_logger - INFO - Dashboard view accessed
+2024-05-08 18:33:58,011 - project_logger - INFO - mouli--Tl Dashboard is opened
+2024-05-08 18:35:25,392 - project_logger - INFO - TL task form initialized with initial data
+2024-05-08 18:35:29,508 - project_logger - INFO - Dashboard view accessed
+2024-05-08 18:35:29,509 - project_logger - INFO - mouli--Tl Dashboard is opened
+2024-05-08 18:35:31,894 - project_logger - INFO - TL task form initialized with initial data
+2024-05-08 18:35:34,488 - project_logger - INFO - Dashboard view accessed
+2024-05-08 18:35:34,490 - project_logger - INFO - mouli--Tl Dashboard is opened
+2024-05-08 18:35:36,593 - project_logger - INFO - mouli Logout Successfully
+2024-05-08 18:35:42,065 - project_logger - INFO - manager Login Successfully
+2024-05-08 18:35:42,092 - project_logger - INFO - Dashboard view accessed
+2024-05-08 18:35:42,093 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-08 18:35:45,939 - project_logger - INFO - Dashboard view accessed
+2024-05-08 18:35:45,940 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-08 18:35:47,603 - project_logger - INFO - This is specific--python project2  details
+2024-05-08 18:35:51,170 - project_logger - INFO - Dashboard view accessed
+2024-05-08 18:35:51,171 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-08 18:35:57,033 - project_logger - INFO - This is specific--django develeoper  details
+2024-05-08 18:35:58,938 - project_logger - INFO - Dashboard view accessed
+2024-05-08 18:35:58,939 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-08 18:36:06,426 - project_logger - INFO - Dashboard view accessed
+2024-05-08 18:36:06,427 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-08 18:36:07,904 - project_logger - INFO - Dashboard view accessed
+2024-05-08 18:36:07,905 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-08 18:42:52,021 - project_logger - INFO - Dashboard view accessed
+2024-05-08 18:42:52,021 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-08 18:44:47,660 - project_logger - INFO - manager Login Successfully
+2024-05-08 18:44:47,692 - project_logger - INFO - Dashboard view accessed
+2024-05-08 18:44:47,693 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-08 18:46:29,224 - project_logger - INFO - Dashboard view accessed
+2024-05-08 18:46:29,224 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-08 18:46:32,389 - project_logger - INFO - Dashboard view accessed
+2024-05-08 18:46:32,389 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-08 18:46:35,930 - project_logger - INFO - Dashboard view accessed
+2024-05-08 18:46:35,931 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-08 18:46:38,533 - project_logger - INFO - Dashboard view accessed
+2024-05-08 18:46:38,533 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-08 18:47:11,571 - project_logger - INFO - manager Logout Successfully
+2024-05-08 18:47:16,544 - project_logger - INFO - mouli Login Successfully
+2024-05-08 18:47:16,569 - project_logger - INFO - Dashboard view accessed
+2024-05-08 18:47:16,570 - project_logger - INFO - mouli--Tl Dashboard is opened
+2024-05-08 18:47:51,257 - project_logger - INFO - TL task form initialized with initial data
+2024-05-08 18:50:40,817 - project_logger - INFO - TL task is assigned to employee
+2024-05-08 18:50:40,838 - project_logger - INFO - Dashboard view accessed
+2024-05-08 18:50:40,839 - project_logger - INFO - mouli--Tl Dashboard is opened
+2024-05-08 18:51:51,468 - project_logger - INFO - mouli Logout Successfully
+2024-05-08 18:51:54,202 - project_logger - INFO - rakesh Login Successfully
+2024-05-08 18:51:54,231 - project_logger - INFO - Dashboard view accessed
+2024-05-08 18:51:54,232 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-08 18:51:55,479 - project_logger - INFO - TL task form initialized with initial data
+2024-05-08 18:52:11,967 - project_logger - INFO - TL task is assigned to employee
+2024-05-08 18:52:11,987 - project_logger - INFO - Dashboard view accessed
+2024-05-08 18:52:11,988 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-08 18:52:14,848 - project_logger - INFO - rakesh Logout Successfully
+2024-05-08 18:52:19,003 - project_logger - INFO - rakesh Login Successfully
+2024-05-08 18:52:19,026 - project_logger - INFO - Dashboard view accessed
+2024-05-08 18:52:19,027 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-08 18:52:26,801 - project_logger - INFO - rakesh Logout Successfully
+2024-05-08 18:52:32,402 - project_logger - INFO - mouli Login Successfully
+2024-05-08 18:52:32,429 - project_logger - INFO - Dashboard view accessed
+2024-05-08 18:52:32,431 - project_logger - INFO - mouli--Tl Dashboard is opened
+2024-05-08 18:52:38,102 - project_logger - INFO - mouli Logout Successfully
+2024-05-08 18:52:40,859 - project_logger - INFO - rakesh Login Successfully
+2024-05-08 18:52:40,882 - project_logger - INFO - Dashboard view accessed
+2024-05-08 18:52:40,883 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-08 18:52:44,142 - project_logger - INFO - TL task form initialized with initial data
+2024-05-08 18:52:47,062 - project_logger - INFO - Dashboard view accessed
+2024-05-08 18:52:47,064 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-08 18:52:54,623 - project_logger - INFO - TL task form initialized with initial data
+2024-05-08 18:52:57,854 - project_logger - INFO - Dashboard view accessed
+2024-05-08 18:52:57,856 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-08 18:53:00,074 - project_logger - INFO - TL task form initialized with initial data
+2024-05-08 18:53:13,394 - project_logger - INFO - TL task is assigned to employee
+2024-05-08 18:53:13,415 - project_logger - INFO - Dashboard view accessed
+2024-05-08 18:53:13,416 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-08 18:54:03,047 - project_logger - INFO - rakesh Logout Successfully
+2024-05-08 18:54:06,804 - project_logger - INFO - manoj Login Successfully
+2024-05-08 18:54:06,829 - project_logger - INFO - Dashboard view accessed
+2024-05-08 18:54:06,830 - project_logger - INFO - manoj--Employee Dashboard is opened
+2024-05-08 18:54:11,143 - project_logger - INFO - manoj Logout Successfully
+2024-05-08 18:54:15,419 - project_logger - INFO - pradeep Login Successfully
+2024-05-08 18:54:15,440 - project_logger - INFO - Dashboard view accessed
+2024-05-08 18:54:15,440 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-05-08 18:54:23,006 - project_logger - INFO - TL Deleting the task data
+2024-05-08 18:54:23,034 - project_logger - INFO - Dashboard view accessed
+2024-05-08 18:54:23,036 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-05-08 18:54:24,956 - project_logger - INFO - TL Deleting the task data
+2024-05-08 18:54:24,981 - project_logger - INFO - Dashboard view accessed
+2024-05-08 18:54:24,981 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-05-08 18:54:27,652 - project_logger - INFO - TL Deleting the task data
+2024-05-08 18:54:27,676 - project_logger - INFO - Dashboard view accessed
+2024-05-08 18:54:27,677 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-05-08 18:55:09,713 - project_logger - INFO - TL task form initialized with initial data
+2024-05-08 18:55:33,162 - project_logger - INFO - TL task is assigned to employee
+2024-05-08 18:55:33,180 - project_logger - INFO - Dashboard view accessed
+2024-05-08 18:55:33,182 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-05-08 18:55:56,566 - project_logger - INFO - TL Deleting the task data
+2024-05-08 18:55:56,591 - project_logger - INFO - Dashboard view accessed
+2024-05-08 18:55:56,592 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-05-08 18:55:57,620 - project_logger - INFO - TL Deleting the task data
+2024-05-08 18:55:57,652 - project_logger - INFO - Dashboard view accessed
+2024-05-08 18:55:57,653 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-05-08 18:56:11,960 - project_logger - INFO - TL task form initialized with initial data
+2024-05-08 18:56:27,024 - project_logger - INFO - TL task is assigned to employee
+2024-05-08 18:56:27,041 - project_logger - INFO - Dashboard view accessed
+2024-05-08 18:56:27,042 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-05-08 19:00:27,443 - project_logger - INFO - TL task form initialized with initial data
+2024-05-08 19:03:21,048 - project_logger - INFO - Dashboard view accessed
+2024-05-08 19:03:21,049 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-05-08 19:03:22,358 - project_logger - INFO - TL task form initialized with initial data
+2024-05-08 19:03:54,051 - project_logger - INFO - Dashboard view accessed
+2024-05-08 19:03:54,052 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-05-08 19:03:55,838 - project_logger - INFO - pradeep Logout Successfully
+2024-05-08 19:03:58,793 - project_logger - INFO - rakesh Login Successfully
+2024-05-08 19:03:58,818 - project_logger - INFO - Dashboard view accessed
+2024-05-08 19:03:58,819 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-08 19:04:03,826 - project_logger - INFO - TL task form initialized with initial data
+2024-05-08 19:04:35,309 - project_logger - INFO - TL task form initialized with initial data
+2024-05-08 19:05:33,223 - project_logger - INFO - Dashboard view accessed
+2024-05-08 19:05:33,225 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-08 19:05:34,990 - project_logger - INFO - TL task form initialized with initial data
+2024-05-08 19:09:03,751 - project_logger - INFO - TL task form initialized with initial data
+2024-05-08 19:10:00,870 - project_logger - INFO - TL task form initialized with initial data
+2024-05-08 19:11:13,496 - project_logger - INFO - TL task form initialized with initial data
+2024-05-08 19:12:30,712 - project_logger - INFO - TL task form initialized with initial data
+2024-05-08 19:13:22,886 - project_logger - INFO - TL task form initialized with initial data
+2024-05-08 19:13:50,539 - project_logger - INFO - TL task is assigned to employee
+2024-05-08 19:13:50,558 - project_logger - INFO - Dashboard view accessed
+2024-05-08 19:13:50,559 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-08 19:19:52,435 - project_logger - INFO - TL task form initialized with initial data
+2024-05-08 19:20:21,795 - project_logger - INFO - TL task is assigned to employee
+2024-05-08 19:20:21,812 - project_logger - INFO - Dashboard view accessed
+2024-05-08 19:20:21,814 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-08 19:20:26,514 - project_logger - INFO - rakesh Logout Successfully
+2024-05-08 19:20:29,185 - project_logger - INFO - pradeep Login Successfully
+2024-05-08 19:20:29,214 - project_logger - INFO - Dashboard view accessed
+2024-05-08 19:20:29,215 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-05-08 19:20:37,519 - project_logger - INFO - TL task form initialized with initial data
+2024-05-08 19:21:27,411 - project_logger - INFO - TL task is assigned to employee
+2024-05-08 19:21:27,432 - project_logger - INFO - Dashboard view accessed
+2024-05-08 19:21:27,433 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-05-08 19:23:11,513 - project_logger - INFO - pradeep Logout Successfully
+2024-05-08 19:23:14,947 - project_logger - INFO - mouli Login Successfully
+2024-05-08 19:23:14,969 - project_logger - INFO - Dashboard view accessed
+2024-05-08 19:23:14,969 - project_logger - INFO - mouli--Tl Dashboard is opened
+2024-05-08 19:23:17,184 - project_logger - INFO - TL task form initialized with initial data
+2024-05-08 19:23:33,304 - project_logger - INFO - TL task is assigned to employee
+2024-05-08 19:23:33,322 - project_logger - INFO - Dashboard view accessed
+2024-05-08 19:23:33,322 - project_logger - INFO - mouli--Tl Dashboard is opened
+2024-05-08 19:25:01,593 - project_logger - INFO - mouli Logout Successfully
+2024-05-08 19:25:06,821 - project_logger - INFO - manoj Login Successfully
+2024-05-08 19:25:06,846 - project_logger - INFO - Dashboard view accessed
+2024-05-08 19:25:06,848 - project_logger - INFO - manoj--Employee Dashboard is opened
+2024-05-08 19:25:19,504 - project_logger - INFO - manoj Logout Successfully
+2024-05-08 19:25:23,797 - project_logger - INFO - srihari Login Successfully
+2024-05-08 19:25:23,819 - project_logger - INFO - Dashboard view accessed
+2024-05-08 19:25:23,820 - project_logger - INFO - srihari--Employee Dashboard is opened
+2024-05-08 19:26:31,142 - project_logger - INFO - srihari Logout Successfully
+2024-05-09 09:35:57,498 - project_logger - INFO - manager Login Successfully
+2024-05-09 09:35:57,530 - project_logger - INFO - Dashboard view accessed
+2024-05-09 09:35:57,531 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-09 09:36:00,249 - project_logger - INFO - This is specific--django develeoper  details
+2024-05-09 09:36:02,273 - project_logger - INFO - Dashboard view accessed
+2024-05-09 09:36:02,274 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-09 09:36:06,136 - project_logger - INFO - Dashboard view accessed
+2024-05-09 09:36:06,138 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-09 09:36:30,123 - project_logger - INFO - Manger Try to adding Tl
+2024-05-09 09:36:32,964 - project_logger - INFO - Dashboard view accessed
+2024-05-09 09:36:32,965 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-09 09:36:51,270 - project_logger - INFO - Dashboard view accessed
+2024-05-09 09:36:51,271 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-09 09:37:04,703 - project_logger - INFO - Dashboard view accessed
+2024-05-09 09:37:04,704 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-09 09:37:23,575 - project_logger - INFO - Dashboard view accessed
+2024-05-09 09:37:23,576 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-09 09:37:39,709 - project_logger - INFO - Dashboard view accessed
+2024-05-09 09:37:39,710 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-09 09:37:49,406 - project_logger - INFO - manager Logout Successfully
+2024-05-09 09:37:52,445 - project_logger - INFO - pradeep Login Successfully
+2024-05-09 09:37:52,473 - project_logger - INFO - Dashboard view accessed
+2024-05-09 09:37:52,474 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-05-09 09:37:54,854 - project_logger - INFO - TL Deleting the task data
+2024-05-09 09:37:54,885 - project_logger - INFO - Dashboard view accessed
+2024-05-09 09:37:54,886 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-05-09 09:37:55,965 - project_logger - INFO - TL Deleting the task data
+2024-05-09 09:37:55,997 - project_logger - INFO - Dashboard view accessed
+2024-05-09 09:37:55,998 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-05-09 09:37:56,625 - project_logger - INFO - TL Deleting the task data
+2024-05-09 09:37:56,652 - project_logger - INFO - Dashboard view accessed
+2024-05-09 09:37:56,653 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-05-09 09:37:57,821 - project_logger - INFO - TL Deleting the task data
+2024-05-09 09:37:57,850 - project_logger - INFO - Dashboard view accessed
+2024-05-09 09:37:57,851 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-05-09 09:37:58,912 - project_logger - INFO - TL Deleting the task data
+2024-05-09 09:37:58,938 - project_logger - INFO - Dashboard view accessed
+2024-05-09 09:37:58,939 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-05-09 09:38:05,559 - project_logger - INFO - TL task form initialized with initial data
+2024-05-09 09:38:08,654 - project_logger - INFO - Dashboard view accessed
+2024-05-09 09:38:08,655 - project_logger - INFO - pradeep--Tl Dashboard is opened
+2024-05-09 09:38:14,797 - project_logger - INFO - pradeep Logout Successfully
+2024-05-09 09:38:18,814 - project_logger - INFO - manager Login Successfully
+2024-05-09 09:38:18,844 - project_logger - INFO - Dashboard view accessed
+2024-05-09 09:38:18,844 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-09 09:38:20,066 - project_logger - INFO - manager ready to add project
+2024-05-09 09:38:54,924 - project_logger - INFO - Manger added project succesfully
+2024-05-09 09:38:56,610 - project_logger - INFO - Dashboard view accessed
+2024-05-09 09:38:56,612 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-09 09:39:01,019 - project_logger - INFO - Manger Try to adding Tl
+2024-05-09 09:39:19,039 - project_logger - INFO - Manger added Tl to specific project
+2024-05-09 09:39:20,721 - project_logger - INFO - Dashboard view accessed
+2024-05-09 09:39:20,722 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-09 09:39:34,644 - project_logger - INFO - Dashboard view accessed
+2024-05-09 09:39:34,645 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-09 09:39:36,226 - project_logger - INFO - Manger Trying to add Employe to specific project
+2024-05-09 09:39:59,518 - project_logger - INFO - Manger added Employe to specific project
+2024-05-09 09:40:02,848 - project_logger - INFO - manager Login Successfully
+2024-05-09 09:40:02,871 - project_logger - INFO - Dashboard view accessed
+2024-05-09 09:40:02,872 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-09 09:40:06,204 - project_logger - INFO - manager Logout Successfully
+2024-05-09 09:40:09,892 - project_logger - INFO - manager Login Successfully
+2024-05-09 09:40:09,915 - project_logger - INFO - Dashboard view accessed
+2024-05-09 09:40:09,915 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-09 09:40:11,662 - project_logger - INFO - manager Logout Successfully
+2024-05-09 09:40:14,807 - project_logger - INFO - srihari Login Successfully
+2024-05-09 09:40:14,853 - project_logger - INFO - Dashboard view accessed
+2024-05-09 09:40:14,855 - project_logger - INFO - srihari--Tl Dashboard is opened
+2024-05-09 09:40:31,012 - project_logger - INFO - srihari Logout Successfully
+2024-05-09 09:40:42,741 - project_logger - INFO - satish Login Successfully
+2024-05-09 09:40:42,761 - project_logger - INFO - Dashboard view accessed
+2024-05-09 09:40:42,763 - project_logger - INFO - satish--Employee Dashboard is opened
+2024-05-09 09:40:51,692 - project_logger - INFO - satish Logout Successfully
+2024-05-09 09:40:55,244 - project_logger - INFO - srihari Login Successfully
+2024-05-09 09:40:55,267 - project_logger - INFO - Dashboard view accessed
+2024-05-09 09:40:55,269 - project_logger - INFO - srihari--Tl Dashboard is opened
+2024-05-09 09:41:07,443 - project_logger - INFO - TL task form initialized with initial data
+2024-05-09 09:41:38,962 - project_logger - INFO - TL task is assigned to employee
+2024-05-09 09:41:38,983 - project_logger - INFO - Dashboard view accessed
+2024-05-09 09:41:38,984 - project_logger - INFO - srihari--Tl Dashboard is opened
+2024-05-09 09:42:03,690 - project_logger - INFO - srihari Logout Successfully
+2024-05-09 09:42:16,318 - project_logger - INFO - satish Invalid username and password
+2024-05-09 09:42:35,842 - project_logger - INFO - satish Login Successfully
+2024-05-09 09:42:35,867 - project_logger - INFO - Dashboard view accessed
+2024-05-09 09:42:35,869 - project_logger - INFO - satish--Employee Dashboard is opened
+2024-05-09 09:42:57,954 - project_logger - INFO - satish Logout Successfully
+2024-05-09 09:43:01,870 - project_logger - INFO - rakesh Login Successfully
+2024-05-09 09:43:01,893 - project_logger - INFO - Dashboard view accessed
+2024-05-09 09:43:01,893 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-09 09:43:03,443 - project_logger - INFO - TL task form initialized with initial data
+2024-05-09 09:43:35,155 - project_logger - INFO - TL task is assigned to employee
+2024-05-09 09:43:35,175 - project_logger - INFO - Dashboard view accessed
+2024-05-09 09:43:35,176 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-09 09:43:51,226 - project_logger - INFO - rakesh Logout Successfully
+2024-05-09 09:43:59,962 - project_logger - INFO - satish Login Successfully
+2024-05-09 09:43:59,986 - project_logger - INFO - Dashboard view accessed
+2024-05-09 09:43:59,987 - project_logger - INFO - satish--Employee Dashboard is opened
+2024-05-09 09:44:11,889 - project_logger - INFO - satish Logout Successfully
+2024-05-09 09:44:14,793 - project_logger - INFO - rakesh Login Successfully
+2024-05-09 09:44:14,815 - project_logger - INFO - Dashboard view accessed
+2024-05-09 09:44:14,816 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-09 09:44:25,959 - project_logger - INFO - TL task form initialized with initial data
+2024-05-09 09:54:26,711 - project_logger - INFO - Dashboard view accessed
+2024-05-09 09:54:26,712 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-09 09:54:28,110 - project_logger - INFO - TL Deleting the task data
+2024-05-09 09:54:28,143 - project_logger - INFO - Dashboard view accessed
+2024-05-09 09:54:28,144 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-09 09:54:29,152 - project_logger - INFO - TL Deleting the task data
+2024-05-09 09:54:29,179 - project_logger - INFO - Dashboard view accessed
+2024-05-09 09:54:29,180 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-09 09:54:29,750 - project_logger - INFO - TL Deleting the task data
+2024-05-09 09:54:29,797 - project_logger - INFO - Dashboard view accessed
+2024-05-09 09:54:29,797 - project_logger - INFO - rakesh--Tl Dashboard is opened
+2024-05-09 09:54:30,762 - project_logger - INFO - rakesh Logout Successfully
+2024-05-09 09:54:34,183 - project_logger - INFO - manager Login Successfully
+2024-05-09 09:54:34,208 - project_logger - INFO - Dashboard view accessed
+2024-05-09 09:54:34,209 - project_logger - INFO - manager--Manger Dashboard is opened
+2024-05-09 09:54:37,309 - project_logger - INFO - manager Logout Successfully

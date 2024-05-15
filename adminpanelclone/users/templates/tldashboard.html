@@ -33,12 +33,13 @@
                 </a>
             </h4>
             <br>
-            <a class="btn btn-link" href="{% url 'tltaskcreation' employeedata.project_name.id %}">Add Task</a>
+            <a class="btn btn-link" href="{% url 'tltaskcreation' employeedata.employee.id %}">Add Task</a>
+
             <br> <br>
             <h2>Assigned Task Details</h2>
             {%for i in tl_add_task_deatils%}
             <br>   
-            <p> Project-name:  {{i.project}},   TL-id:  {{i.Tldb.id}},   Task-Assigned-employeename: {{i.employee}},  Task-Des:  {{i.task_name}}
+            <p> Project-name:  {{i.project}},   TL-id:  {{i.Tldb_id}},   Task-Assigned-employeename: {{i.employee}},  Task-Des:  {{i.task_name}}
                 <a class="btn btn-link btn-sm" href="{% url 'tltaskdata' i.id%}">Delete</a>
             </p>
                  

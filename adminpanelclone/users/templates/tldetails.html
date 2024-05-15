@@ -11,15 +11,16 @@
 </head>
 <body>
     <div>
-        <form action=""method="post">
-            {% csrf_token %}
-            <h1>ADD Project details</h1>
-            {{form.as_p}}
-            <input type="submit" name="" id="">
-        </form>
-        <br><br>
+        <ul>
+           <li> {{tl_data.project_name}}</li> 
+           <li>{{tl_data.employee}}</li> 
+           <li>{{tl_data.employee_experience}}</li> 
+           <li>{{tl_data.employee_project_allcoateddate}}</li> 
+        </ul>
         <a class="btn btn-link" href="{% url 'dashboard' %}">Dashboard</a>
+        
 
     </div>
+    
 </body>
 </html>

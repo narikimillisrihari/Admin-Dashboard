@@ -42,7 +42,7 @@
                     <h2>TL Name</h2>
                     <div>
                         {% for i in tldetails %}
-                            <li><a class="btn btn-link btn-lg" href="">{{ i.employee }}</a>
+                            <li><a class="btn btn-link btn-lg" href="{% url 'tl_details' i.id%}">{{ i.employee }}</a>
                                 <a class="btn btn-link btn-sm" href="{% url 'tldelete' i.id%}">Delete</a> </li>
                         {% endfor %}
                     </div>
